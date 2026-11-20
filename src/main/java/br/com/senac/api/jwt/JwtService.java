@@ -52,5 +52,4 @@ public class JwtService {
                 .toInstant(ZoneOffset.of("-03:00")); // define o fusohorário
 
     }
-
 }
